@@ -3,6 +3,10 @@ const { Routes } = require('discord-api-types/v9');
 const commands = [
   {
     name: 'randomice',
+    description: 'Mices',
+  },
+  {
+    name: 'help',
     description: 'Get help with things',
   },
 ];
